@@ -1,4 +1,4 @@
-'''Por defeito, quando esamos a escrever num ficheiro, os dados vão primeiro para uma memória tampão
+'''Por defeito, quando estamos a escrever num ficheiro, os dados vão primeiro para uma memória tampão
 e só posteriormente são escritos em disco. A operação de fecho de um ficheiro começa por esvaziar a memória
 tampão e só depois fecha efetivamente o ficheiro.
 
